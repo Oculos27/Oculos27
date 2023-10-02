@@ -1,3 +1,2 @@
-I'm DeltaDev and I enjoy coding, learning about code, and anything to do with video games.
-I'm currently learning Unity and *barely* working on a low quality game project.
-I also really like incremental-style idle games like BitBurner, but I like most other genres as well.
+# DeltaDev (Delta)
+I like programming and games of course, and I started out with a modified version of JavaScript on Code.org in like 7th grade. Then, I moved on to C#, which I learned for Unity game programming. Now I've realized I am far more interested in the lower level side of things. I am fascinated with the inner workings of computers and software, and so I'm more committed to learning languages like C/C++, Rust, etc. since those allow for more deep-level learning of computer science.
